@@ -1,0 +1,5 @@
+Application: Demo Application
+Env: Development
+Version: 1.0
+
+Welcome to our Devops git project.
