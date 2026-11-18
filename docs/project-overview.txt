@@ -9,3 +9,7 @@ github
 
 Topics:
 Repo management
+
+Additional information:
+
+This project demonstrates a real-world git collaboration workflow.
